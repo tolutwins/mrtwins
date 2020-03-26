@@ -1,0 +1,39 @@
+.container {
+    min-height: 1000px;
+    margin: auto;
+    font-size: 20px;
+    background: lightpink;
+    text-align: center;
+}
+
+div {
+    display: inline-block;
+    height: 200px;
+    line-height: 200px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.s1 {
+    width: 400px !important;
+    background: lightskyblue;
+}
+
+.s2 {
+    width: 800px !important;
+    background: cyan;
+}
+
+.s3 {
+    width: 1200px;
+    background: skyblue;
+}
+
+.thumb {
+    padding-right: 10px;
+}
+
+.replaceImage {
+    width: 1200px;
+    height: 200px;
+}
